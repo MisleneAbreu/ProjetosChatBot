@@ -1,0 +1,15 @@
+{
+  "name": "bot_blip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "biografiabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lime-transport-websocket": "^2.0.2",
+    "messaginghub-client": "^3.4.1"
+  }
+}

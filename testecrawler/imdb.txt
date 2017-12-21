@@ -1,0 +1,800 @@
+Vingadores: Guerra Infinita - 
+Liga da Justiça - 7.2
+Viva - A Vida é uma Festa - 8.9
+Thor: Ragnarok - 8.2
+Star Wars: Os Últimos Jedi - 
+Assassinato no Expresso do Oriente - 6.8
+Lady Bird: É Hora de Voar - 8.5
+Kingsman: O Círculo Dourado - 7.1
+Extraordinário - 8.1
+Artista do Desastre - 8.3
+Pai em Dose Dupla 2 - 6.2
+O Assassino: O Primeiro Alvo - 6.3
+Valerian e a Cidade dos Mil Planetas - 6.6
+Me Chame pelo Seu Nome - 8.4
+Três Anúncios Para um Crime - 8.5
+The Room - 3.6
+A Forma da Água - 7.7
+It: A Coisa - 7.7
+Jumanji: Bem-Vindo à Selva - 
+Tempestade: Planeta em Fúria - 5.5
+Logan Lucky - Roubo em Família - 7.1
+Mulher-Maravilha - 7.6
+O Rei do Show - 
+Terra Selvagem - 7.8
+Kong: A Ilha da Caveira - 6.7
+Blade Runner 2049 - 8.4
+Pantera Negra - 
+Jurassic World: Reino Ameaçado - 
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+Roman J. Israel, Esq. - 6.3
+Detroit em Rebelião - 7.5
+Corra! - 7.7
+All the Money in the World - 
+Hangman - 4.9
+Em Ritmo de Fuga - 7.8
+Untitled Deadpool Sequel - 
+Jogos Mortais: Jigsaw - 6.1
+Mudbound - 7.5
+Feito na América - 7.2
+O Destino de uma Nação - 5.7
+Perfeita é a Mãe! 2 - 5.8
+I, Tonya - 7.6
+Férias Frustradas de Natal - 7.6
+Doentes de Amor - 7.7
+Love, Simon - 
+Mission: Impossible 6 - 
+Dunkirk - 8.3
+Esquadrão Suicida - 6.1
+The Man Who Invented Christmas - 7.3
+A Estrela de Belém - 5.7
+O Sacrifício do Cervo Sagrado - 7.7
+O Grinch - 6.1
+Planeta dos Macacos: A Guerra - 7.6
+Guardiões da Galáxia Vol. 2 - 7.8
+De Volta para Casa - 5.7
+Esqueceram de Mim - 7.5
+Thoroughbreds - 7.2
+Star Wars: O Despertar da Força - 8.1
+A Bela e a Fera - 7.3
+Mary Magdalene - 
+A Torre Negra - 5.7
+Batman vs Superman: A Origem da Justiça - 6.6
+Kingsman: Serviço Secreto - 7.7
+Um Duende em Nova York - 6.9
+Suburbicon: Bem-vindos ao Paraíso - 5.3
+Better Watch Out - 6.6
+Trama Fantasma - 9.2
+Simplesmente Amor - 7.7
+Aquaman - 
+Han Solo: Uma História Star Wars - 
+O Poderoso Chefinho - 6.4
+The Post: A Guerra Secreta - 
+As Aventuras de Paddington 2 - 8.2
+Hellboy - 
+Fragmentado - 7.3
+The Tribes of Palos Verdes - 5.2
+The Predator - 
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.6
+Roda Gigante - 6.0
+Dupla Explosiva - 7.0
+O Estrangeiro - 7.2
+Sing: Quem Canta Seus Males Espanta - 7.1
+Transformers: O Último Cavaleiro - 5.2
+Bullet Head - 
+Até o Último Homem - 8.2
+Pequena Grande Vida - 6.3
+Rogue One: Uma História Star Wars - 7.8
+A Escolha Perfeita 3 - 
+A Festa - 7.0
+Carros 3 - 6.9
+Vingadores: Era de Ultron - 7.4
+Jungle - 6.7
+O Mundo de Andy - 7.4
+Uma Dobra no Tempo - 
+A Morte te dá Parabéns! - 6.5
+Piratas do Caribe: A Vingança de Salazar - 6.7
+Mãe! - 7.1
+Depois Daquela Montanha - 6.3
+The Irishman - 
+Vingadores: Guerra Infinita - 
+Liga da Justiça - 7.2
+Viva - A Vida é uma Festa - 8.9
+Thor: Ragnarok - 8.2
+Star Wars: Os Últimos Jedi - 
+Assassinato no Expresso do Oriente - 6.8
+Lady Bird: É Hora de Voar - 8.5
+Kingsman: O Círculo Dourado - 7.1
+Extraordinário - 8.1
+Artista do Desastre - 8.3
+Pai em Dose Dupla 2 - 6.2
+O Assassino: O Primeiro Alvo - 6.3
+Valerian e a Cidade dos Mil Planetas - 6.6
+Me Chame pelo Seu Nome - 8.4
+Três Anúncios Para um Crime - 8.5
+The Room - 3.6
+A Forma da Água - 7.7
+It: A Coisa - 7.7
+Jumanji: Bem-Vindo à Selva - 
+Tempestade: Planeta em Fúria - 5.5
+Logan Lucky - Roubo em Família - 7.1
+Mulher-Maravilha - 7.6
+O Rei do Show - 
+Terra Selvagem - 7.8
+Kong: A Ilha da Caveira - 6.7
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Pantera Negra - 
+Jurassic World: Reino Ameaçado - 
+Atômica - 6.8
+All the Money in the World - 
+Roman J. Israel, Esq. - 6.3
+Detroit em Rebelião - 7.5
+Corra! - 7.7
+Hangman - 4.9
+Untitled Deadpool Sequel - 
+Em Ritmo de Fuga - 7.8
+Jogos Mortais: Jigsaw - 6.1
+Dupla Explosiva - 7.0
+Roda Gigante - 6.0
+Mudbound - 7.5
+Feito na América - 7.2
+O Destino de uma Nação - 5.7
+Perfeita é a Mãe! 2 - 5.8
+I, Tonya - 7.6
+Férias Frustradas de Natal - 7.6
+Doentes de Amor - 7.7
+Love, Simon - 
+Mission: Impossible 6 - 
+Dunkirk - 8.3
+Esquadrão Suicida - 6.1
+The Man Who Invented Christmas - 7.3
+A Estrela de Belém - 5.7
+O Sacrifício do Cervo Sagrado - 7.7
+O Grinch - 6.1
+Planeta dos Macacos: A Guerra - 7.6
+Guardiões da Galáxia Vol. 2 - 7.8
+De Volta para Casa - 5.7
+Esqueceram de Mim - 7.5
+Thoroughbreds - 7.2
+Star Wars: O Despertar da Força - 8.1
+A Bela e a Fera - 7.3
+Mary Magdalene - 
+A Torre Negra - 5.7
+Batman vs Superman: A Origem da Justiça - 6.6
+Kingsman: Serviço Secreto - 7.7
+Um Duende em Nova York - 6.9
+Suburbicon: Bem-vindos ao Paraíso - 5.3
+Better Watch Out - 6.6
+Trama Fantasma - 9.2
+Simplesmente Amor - 7.7
+Aquaman - 
+Han Solo: Uma História Star Wars - 
+O Poderoso Chefinho - 6.4
+The Post: A Guerra Secreta - 
+As Aventuras de Paddington 2 - 8.2
+Hellboy - 
+Fragmentado - 7.3
+The Tribes of Palos Verdes - 5.2
+The Predator - 
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.6
+O Estrangeiro - 7.2
+Sing: Quem Canta Seus Males Espanta - 7.1
+Transformers: O Último Cavaleiro - 5.2
+Bullet Head - 
+Até o Último Homem - 8.2
+Pequena Grande Vida - 6.3
+Rogue One: Uma História Star Wars - 7.8
+A Escolha Perfeita 3 - 
+A Festa - 7.0
+Carros 3 - 6.9
+Vingadores: Era de Ultron - 7.4
+Jungle - 6.7
+O Mundo de Andy - 7.4
+Uma Dobra no Tempo - 
+A Morte te dá Parabéns! - 6.5
+Piratas do Caribe: A Vingança de Salazar - 6.7
+Mãe! - 7.1
+Depois Daquela Montanha - 6.3
+The Irishman - 
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Artista do Desastre - 8.2
+Thor: Ragnarok - 8.1
+Viva: A Vida é uma Festa - 8.9
+Dunkirk - 8.3
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+The Room - 3.6
+Jumanji: Bem-Vindo à Selva - 7.0
+I, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+Guardiões da Galáxia Vol. 2 - 7.8
+Star Wars: Os Últimos Jedi - 8.4
+Três Anúncios Para um Crime - 8.5
+O Rei do Show - 
+Valerian e a Cidade dos Mil Planetas - 6.6
+A Forma da Água - 7.9
+It: A Coisa - 7.7
+Logan Lucky: Roubo em Família - 7.1
+O Assassino: O Primeiro Alvo - 6.2
+Me Chame pelo Seu Nome - 8.4
+Feito na América - 7.2
+Férias Frustradas de Natal - 7.6
+Han Solo: Uma História Star Wars - 
+Detroit em Rebelião - 7.5
+Um Duende em Nova York - 6.9
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+O Que te Faz Mais Forte - 7.2
+Liga da Justiça - 7.2
+Bohemian Rhapsody - 
+Mulher-Maravilha - 7.6
+Corra! - 7.7
+Terra Selvagem - 7.8
+All the Money in the World - 
+Pantera Negra - 
+Em Ritmo de Fuga - 7.8
+The Predator - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 6.1
+Perfeita é a Mãe! 2 - 5.8
+Roda Gigante - 6.1
+X-Men: Dark Phoenix - 
+Just Getting Started - 3.8
+Star Wars: O Despertar da Força - 8.1
+Tempestade: Planeta em Fúria - 5.5
+Jogos Mortais: Jigsaw - 6.1
+Midnight Sun - 
+Simplesmente Amor - 7.7
+O Expresso Polar - 6.6
+Mission: Impossible 6 - 
+O Sacrifício do Cervo Sagrado - 7.7
+Untitled Deadpool Sequel - 
+Alita: Anjo de Combate - 
+O Estrangeiro - 7.2
+Trama Fantasma - 9.3
+Dupla Explosiva - 7.0
+A Bela e a Fera - 7.3
+Planeta dos Macacos: A Guerra - 7.5
+O Touro Ferdinando - 6.6
+Pequena Grande Vida - 6.3
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.7
+Better Watch Out - 6.6
+A Escolha Perfeita 3 - 
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Kong: A Ilha da Caveira - 6.7
+Meu Papai é Noel - 6.4
+Bright - 
+Hangman - 5.0
+Mudbound - 7.5
+Rogue One: Uma História Star Wars - 7.8
+Kingsman: Serviço Secreto - 7.7
+Oito Mulheres e um Segredo - 
+The Man Who Invented Christmas - 7.1
+De Volta para Casa - 5.7
+Doentes de Amor - 7.7
+A Torre Negra - 5.7
+Suburbicon: Bem-vindos ao Paraíso - 5.3
+O Poderoso Chefão - 9.2
+Entebbe - 
+Permission - 6.7
+Thoroughbreds - 7.2
+A Grande Jogada - 7.2
+Jurassic World: O Mundo dos Dinossauros - 7.0
+The Irishman - 
+Até o Último Homem - 8.2
+In the Absence of Good Men - 5.3
+Hellboy - 
+Voyeur - 6.3
+The Post: A Guerra Secreta - 
+O Grinch - 6.1
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Star Wars: Os Últimos Jedi - 8.4
+Liga da Justiça - 7.2
+A Forma da Água - 7.9
+Artista do Desastre - 8.2
+Thor: Ragnarok - 8.1
+Viva: A Vida é uma Festa - 8.9
+Dunkirk - 8.3
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+The Room - 3.6
+Jumanji: Bem-Vindo à Selva - 7.0
+I, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+Guardiões da Galáxia Vol. 2 - 7.8
+Três Anúncios Para um Crime - 8.5
+Valerian e a Cidade dos Mil Planetas - 6.6
+O Rei do Show - 
+O Assassino: O Primeiro Alvo - 6.2
+It: A Coisa - 7.7
+Logan Lucky: Roubo em Família - 7.1
+O Grinch - 6.1
+Me Chame pelo Seu Nome - 8.4
+Feito na América - 7.2
+Férias Frustradas de Natal - 7.6
+Han Solo: Uma História Star Wars - 
+Detroit em Rebelião - 7.5
+Um Duende em Nova York - 6.9
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+O Que te Faz Mais Forte - 7.2
+Bohemian Rhapsody - 
+Mulher-Maravilha - 7.6
+Corra! - 7.7
+Terra Selvagem - 7.8
+All the Money in the World - 
+Pantera Negra - 
+Em Ritmo de Fuga - 7.8
+The Predator - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 6.1
+Perfeita é a Mãe! 2 - 5.8
+Roda Gigante - 6.1
+X-Men: Dark Phoenix - 
+Just Getting Started - 3.8
+Star Wars: O Despertar da Força - 8.1
+Tempestade: Planeta em Fúria - 5.5
+Jogos Mortais: Jigsaw - 6.1
+Midnight Sun - 
+Simplesmente Amor - 7.7
+O Expresso Polar - 6.6
+Mission: Impossible 6 - 
+O Sacrifício do Cervo Sagrado - 7.7
+Untitled Deadpool Sequel - 
+Alita: Anjo de Combate - 
+O Estrangeiro - 7.2
+Trama Fantasma - 9.3
+Dupla Explosiva - 7.0
+A Bela e a Fera - 7.3
+Planeta dos Macacos: A Guerra - 7.5
+O Touro Ferdinando - 6.6
+Pequena Grande Vida - 6.3
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.7
+Better Watch Out - 6.6
+A Escolha Perfeita 3 - 
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Kong: A Ilha da Caveira - 6.7
+Meu Papai é Noel - 6.4
+Bright - 
+Hangman - 5.0
+Mudbound - 7.5
+Rogue One: Uma História Star Wars - 7.8
+Kingsman: Serviço Secreto - 7.7
+Oito Mulheres e um Segredo - 
+The Man Who Invented Christmas - 7.1
+De Volta para Casa - 5.7
+Doentes de Amor - 7.7
+A Torre Negra - 5.7
+Suburbicon: Bem-vindos ao Paraíso - 5.3
+O Poderoso Chefão - 9.2
+Entebbe - 
+Permission - 6.7
+Thoroughbreds - 7.2
+A Grande Jogada - 7.2
+Jurassic World: O Mundo dos Dinossauros - 7.0
+The Irishman - 
+Até o Último Homem - 8.2
+In the Absence of Good Men - 5.3
+Hellboy - 
+Voyeur - 6.3
+The Post: A Guerra Secreta - 
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Star Wars: Os Últimos Jedi - 8.3
+A Forma da Água - 8.0
+Artista do Desastre - 8.2
+Viva: A Vida é uma Festa - 8.9
+Dunkirk - 8.2
+Liga da Justiça - 7.2
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+Thor: Ragnarok - 8.1
+Jumanji: Bem-Vindo à Selva - 7.0
+Eu, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+The Room - 3.6
+Três Anúncios Para um Crime - 8.5
+Valerian e a Cidade dos Mil Planetas - 6.6
+Guardiões da Galáxia Vol. 2 - 7.8
+O Rei do Show - 
+O Assassino: O Primeiro Alvo - 6.2
+Logan Lucky: Roubo em Família - 7.1
+Me Chame pelo Seu Nome - 8.4
+O Grinch - 6.1
+Feito na América - 7.2
+Férias Frustradas de Natal - 7.6
+Han Solo: Uma História Star Wars - 
+It: A Coisa - 7.7
+Um Duende em Nova York - 6.9
+Homem-Aranha: De Volta ao Lar - 7.6
+Detroit em Rebelião - 7.5
+Atômica - 6.8
+Blade Runner 2049 - 8.4
+O Que te Faz Mais Forte - 7.2
+Mulher-Maravilha - 7.6
+Corra! - 7.7
+Bohemian Rhapsody - 
+Terra Selvagem - 7.8
+Em Ritmo de Fuga - 7.8
+Todo o Dinheiro do Mundo - 
+Pantera Negra - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 7.3
+Roda Gigante - 6.1
+Perfeita é a Mãe! 2 - 5.8
+The Predator - 
+X-Men: Dark Phoenix - 
+Star Wars: O Despertar da Força - 8.1
+Jogos Mortais: Jigsaw - 6.1
+Tempestade: Planeta em Fúria - 5.5
+Midnight Sun - 
+Simplesmente Amor - 7.7
+Mission: Impossible 6 - 
+Just Getting Started - 3.9
+O Sacrifício do Cervo Sagrado - 7.7
+Untitled Deadpool Sequel - 
+O Estrangeiro - 7.2
+Alita: Anjo de Combate - 
+O Expresso Polar - 6.6
+Trama Fantasma - 9.3
+Dupla Explosiva - 7.0
+O Touro Ferdinando - 6.6
+Planeta dos Macacos: A Guerra - 7.5
+A Bela e a Fera - 7.3
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.8
+Better Watch Out - 6.6
+A Escolha Perfeita 3 - 
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Pequena Grande Vida - 6.4
+Kong: A Ilha da Caveira - 6.7
+Bright - 
+Hangman - 5.0
+Mudbound - 7.5
+Rogue One: Uma História Star Wars - 7.8
+Oito Mulheres e um Segredo - 
+Kingsman: Serviço Secreto - 7.7
+The Man Who Invented Christmas - 7.1
+Doentes de Amor - 7.7
+Meu Papai é Noel - 6.4
+De Volta para Casa - 5.7
+A Torre Negra - 5.7
+O Poderoso Chefão - 9.2
+Entebbe - 
+Permission - 6.7
+Thoroughbreds - 7.2
+A Grande Jogada - 7.4
+Jurassic World: O Mundo dos Dinossauros - 7.0
+Até o Último Homem - 8.2
+In the Absence of Good Men - 4.4
+Suburbicon: Bem-vindos ao Paraíso - 5.3
+Hellboy - 
+Voyeur - 6.3
+The Post: A Guerra Secreta - 
+The Irishman - 
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Liga da Justiça - 7.2
+Star Wars: Os Últimos Jedi - 8.3
+Artista do Desastre - 8.2
+A Forma da Água - 8.0
+Thor: Ragnarok - 8.1
+Viva: A Vida é uma Festa - 8.8
+Dunkirk - 8.2
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+The Room - 3.6
+Jumanji: Bem-Vindo à Selva - 6.9
+Eu, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+Guardiões da Galáxia Vol. 2 - 7.8
+Três Anúncios Para um Crime - 8.5
+Valerian e a Cidade dos Mil Planetas - 6.6
+O Rei do Show - 
+O Assassino: O Primeiro Alvo - 6.2
+It: A Coisa - 7.7
+Logan Lucky: Roubo em Família - 7.1
+O Grinch - 6.1
+Me Chame pelo Seu Nome - 8.4
+Feito na América - 7.2
+Han Solo: Uma História Star Wars - 
+Detroit em Rebelião - 7.5
+Férias Frustradas de Natal - 7.6
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+O Que te Faz Mais Forte - 7.2
+Bohemian Rhapsody - 
+Mulher-Maravilha - 7.6
+Terra Selvagem - 7.8
+Corra! - 7.7
+Todo o Dinheiro do Mundo - 
+Em Ritmo de Fuga - 7.8
+The Predator - 
+Pantera Negra - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 7.3
+Um Duende em Nova York - 6.9
+Roda Gigante - 6.1
+Perfeita é a Mãe! 2 - 5.8
+X-Men: Dark Phoenix - 
+Just Getting Started - 3.9
+Star Wars: O Despertar da Força - 8.1
+Tempestade: Planeta em Fúria - 5.5
+Midnight Sun - 
+Simplesmente Amor - 7.7
+Mission: Impossible 6 - 
+Jogos Mortais: Jigsaw - 6.1
+Untitled Deadpool Sequel - 
+O Sacrifício do Cervo Sagrado - 7.6
+O Estrangeiro - 7.2
+Alita: Anjo de Combate - 
+Trama Fantasma - 9.2
+Dupla Explosiva - 7.0
+Planeta dos Macacos: A Guerra - 7.5
+A Bela e a Fera - 7.3
+O Expresso Polar - 6.6
+Pequena Grande Vida - 6.4
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.7
+A Escolha Perfeita 3 - 
+O Touro Ferdinando - 6.5
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Meu Papai é Noel - 6.4
+Kong: A Ilha da Caveira - 6.7
+Hangman - 5.0
+Better Watch Out - 6.6
+Rogue One: Uma História Star Wars - 7.8
+Bright - 
+Mudbound - 7.5
+Kingsman: Serviço Secreto - 7.7
+The Man Who Invented Christmas - 7.1
+De Volta para Casa - 5.7
+Oito Mulheres e um Segredo - 
+Suburbicon: Bem-vindos ao Paraíso - 5.4
+A Torre Negra - 5.7
+Doentes de Amor - 7.7
+O Poderoso Chefão - 9.2
+Entebbe - 
+Thoroughbreds - 7.2
+Permission - 6.7
+A Grande Jogada - 7.4
+Jurassic World: O Mundo dos Dinossauros - 7.0
+Até o Último Homem - 8.2
+In the Absence of Good Men - 4.3
+Voyeur - 6.3
+The Irishman - 
+The Post: A Guerra Secreta - 
+Hellboy - 
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Star Wars: Os Últimos Jedi - 8.3
+Liga da Justiça - 7.2
+A Forma da Água - 8.0
+Artista do Desastre - 8.2
+Thor: Ragnarok - 8.1
+Viva: A Vida é uma Festa - 8.8
+Dunkirk - 8.2
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+The Room - 3.6
+Jumanji: Bem-Vindo à Selva - 6.9
+Eu, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+Guardiões da Galáxia Vol. 2 - 7.8
+Três Anúncios Para um Crime - 8.5
+Valerian e a Cidade dos Mil Planetas - 6.6
+O Rei do Show - 
+O Assassino: O Primeiro Alvo - 6.2
+It: A Coisa - 7.7
+Logan Lucky: Roubo em Família - 7.1
+O Grinch - 6.1
+Me Chame pelo Seu Nome - 8.4
+Feito na América - 7.2
+Férias Frustradas de Natal - 7.6
+Han Solo: Uma História Star Wars - 
+Detroit em Rebelião - 7.5
+Um Duende em Nova York - 6.9
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+O Que te Faz Mais Forte - 7.2
+Bohemian Rhapsody - 
+Mulher-Maravilha - 7.6
+Corra! - 7.7
+Terra Selvagem - 7.8
+Todo o Dinheiro do Mundo - 
+Pantera Negra - 
+Em Ritmo de Fuga - 7.8
+The Predator - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 7.3
+Perfeita é a Mãe! 2 - 5.8
+Roda Gigante - 6.1
+X-Men: Dark Phoenix - 
+Just Getting Started - 3.9
+Star Wars: O Despertar da Força - 8.1
+Tempestade: Planeta em Fúria - 5.5
+Jogos Mortais: Jigsaw - 6.1
+Midnight Sun - 
+Simplesmente Amor - 7.7
+O Expresso Polar - 6.6
+Mission: Impossible 6 - 
+O Sacrifício do Cervo Sagrado - 7.6
+Untitled Deadpool Sequel - 
+Alita: Anjo de Combate - 
+O Estrangeiro - 7.2
+Trama Fantasma - 9.2
+Dupla Explosiva - 7.0
+A Bela e a Fera - 7.3
+Planeta dos Macacos: A Guerra - 7.5
+O Touro Ferdinando - 6.5
+Pequena Grande Vida - 6.4
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.7
+Better Watch Out - 6.6
+A Escolha Perfeita 3 - 
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Kong: A Ilha da Caveira - 6.7
+Meu Papai é Noel - 6.4
+Bright - 
+Hangman - 5.0
+Mudbound - 7.5
+Rogue One: Uma História Star Wars - 7.8
+Kingsman: Serviço Secreto - 7.7
+Oito Mulheres e um Segredo - 
+The Man Who Invented Christmas - 7.1
+De Volta para Casa - 5.7
+Doentes de Amor - 7.7
+A Torre Negra - 5.7
+Suburbicon: Bem-vindos ao Paraíso - 5.4
+O Poderoso Chefão - 9.2
+Entebbe - 
+Permission - 6.7
+Thoroughbreds - 7.2
+A Grande Jogada - 7.4
+Jurassic World: O Mundo dos Dinossauros - 7.0
+The Irishman - 
+Até o Último Homem - 8.2
+In the Absence of Good Men - 4.3
+Hellboy - 
+Voyeur - 6.3
+The Post: A Guerra Secreta - 
+Vingadores: Guerra Infinita - 
+Jurassic World: Reino Ameaçado - 
+Star Wars: Os Últimos Jedi - 8.2
+Liga da Justiça - 7.2
+A Forma da Água - 8.0
+Artista do Desastre - 8.2
+Thor: Ragnarok - 8.1
+Viva: A Vida é uma Festa - 8.8
+Dunkirk - 8.2
+Assassinato no Expresso do Oriente - 6.8
+Extraordinário - 8.1
+Kingsman: O Círculo Dourado - 7.0
+Lady Bird: É Hora de Voar - 8.4
+Mãe! - 6.9
+The Room - 3.6
+Jumanji: Bem-Vindo à Selva - 6.9
+Eu, Tonya - 7.7
+Pai em Dose Dupla 2 - 6.2
+You Were Never Really Here - 7.4
+Guardiões da Galáxia Vol. 2 - 7.8
+Três Anúncios Para um Crime - 8.5
+Valerian e a Cidade dos Mil Planetas - 6.6
+O Rei do Show - 
+O Assassino: O Primeiro Alvo - 6.2
+It: A Coisa - 7.7
+Logan Lucky: Roubo em Família - 7.1
+O Grinch - 6.1
+Me Chame pelo Seu Nome - 8.4
+Feito na América - 7.2
+Férias Frustradas de Natal - 7.6
+Han Solo: Uma História Star Wars - 
+Detroit em Rebelião - 7.5
+Um Duende em Nova York - 6.9
+Blade Runner 2049 - 8.4
+Homem-Aranha: De Volta ao Lar - 7.6
+Atômica - 6.8
+O Que te Faz Mais Forte - 7.2
+Bohemian Rhapsody - 
+Mulher-Maravilha - 7.6
+Corra! - 7.7
+Terra Selvagem - 7.8
+Todo o Dinheiro do Mundo - 
+Pantera Negra - 
+Em Ritmo de Fuga - 7.8
+The Predator - 
+Esqueceram de Mim - 7.5
+O Destino de uma Nação - 7.3
+Perfeita é a Mãe! 2 - 5.8
+Roda Gigante - 6.1
+X-Men: Dark Phoenix - 
+Just Getting Started - 3.9
+Star Wars: O Despertar da Força - 8.1
+Tempestade: Planeta em Fúria - 5.5
+Jogos Mortais: Jigsaw - 6.1
+Midnight Sun - 
+Simplesmente Amor - 7.7
+O Expresso Polar - 6.6
+Mission: Impossible 6 - 
+O Sacrifício do Cervo Sagrado - 7.6
+Untitled Deadpool Sequel - 
+Alita: Anjo de Combate - 
+O Estrangeiro - 7.2
+Trama Fantasma - 9.2
+Dupla Explosiva - 7.0
+A Bela e a Fera - 7.3
+Planeta dos Macacos: A Guerra - 7.5
+O Touro Ferdinando - 6.5
+Pequena Grande Vida - 6.4
+Esquadrão Suicida - 6.1
+A Estrela de Belém - 5.7
+Better Watch Out - 6.6
+A Escolha Perfeita 3 - 
+Roman J. Israel, Esq. - 6.3
+A Última Ressaca do Ano - 5.8
+Olaf: Em Uma Nova Aventura Congelante de Frozen - 4.7
+Kong: A Ilha da Caveira - 6.7
+Meu Papai é Noel - 6.4
+Hangman - 5.0
+Bright - 
+Mudbound - 7.5
+Rogue One: Uma História Star Wars - 7.8
+Kingsman: Serviço Secreto - 7.7
+Oito Mulheres e um Segredo - 
+The Man Who Invented Christmas - 7.1
+De Volta para Casa - 5.7
+Doentes de Amor - 7.7
+A Torre Negra - 5.7
+Suburbicon: Bem-vindos ao Paraíso - 5.4
+O Poderoso Chefão - 9.2
+Entebbe - 
+Permission - 6.7
+Thoroughbreds - 7.2
+A Grande Jogada - 7.4
+Jurassic World: O Mundo dos Dinossauros - 7.0
+The Irishman - 
+Até o Último Homem - 8.2
+In the Absence of Good Men - 4.3
+Hellboy - 
+Voyeur - 6.3
+The Post: A Guerra Secreta - 

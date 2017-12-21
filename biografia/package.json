@@ -1,0 +1,18 @@
+{
+  "name": "biografia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mislene",
+  "license": "ISC",
+  "dependencies": {
+    "lime-transport-websocket": "^2.0.2",
+    "messaginghub-client": "^3.4.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.1.0"
+  }
+}

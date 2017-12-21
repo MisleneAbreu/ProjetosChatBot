@@ -1,0 +1,21 @@
+{
+  "name": "testecrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "js-crawler": "^0.3.19",
+    "lime-transport-websocket": "^2.0.2",
+    "messaginghub-client": "^3.4.1",
+    "node-spider": "^1.4.1",
+    "node-webcrawler": "^0.8.0",
+    "watson-developer-cloud": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mislene Abreu",
+  "license": "ISC"
+}
